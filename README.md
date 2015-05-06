@@ -11,8 +11,8 @@ I am Full Stack but Front End focused Web and Mobile developer.  I love javascri
 * Fort Street High School
 
 ##Employment History
-| Period        |  Title        | Company|
-| ------------- |:-------------:| ------:|
-| col 3 is      | right-aligned | $1600  |
-| col 2 is      | centered      |   $12  |
-| zebra stripes | are neat      |    $1  |
+| Period        |  Title        | Company| Responsbilities |
+| ------------- |:-------------:| ------:| ---------------:|
+| col 3 is      | right-aligned | $1600  |                     |
+| col 2 is      | centered      |   $12  |TEstiinggasdqw will this work it's way too god damn long omgggasdwqewqewqewqewqewqewqewqewqewqewqeqw|
+| zebra stripes | are neat      |    $1  ||
