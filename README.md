@@ -29,17 +29,19 @@ I am Full Stack but Front End focused Web and Mobile developer.  I love javascri
 | Name        | Proficiency [1,10] | Years, Months  |
 | :------------- |:-------------:| :-----|
 | Javascript     | 9             | 2 years |
+| ES6/ES2015     | 6             | 2 months |
 | jQuery         | 10            |   2 years |
 | AngularJS      | 9            |   1.5 years |
 | ReactJS        | 8            |    9 months |
+| Flux/Fluxible        | 7            |    4 months |
 | IonicFramework | 7            |    8 months |
 | HTML           | 10            |    2 years |
 | Jade           | 9            |    1 years |
 | CSS            | 9            |    2 years |
-| MarkDown     | 8            |   5 months |
+| MarkDown     | 9            |   1 year |
 | Cordova/PhoneGap | 8            |    8 months |
-| CoffeeScript  | 10            |    5 months |
-| Sass          | 7            |    8 months |
+| CoffeeScript  | 8            |    5 months |
+| Sass          | 8            |    1.5 years |
 | Less           | 7            |    5 months |
 
 ### Backend
