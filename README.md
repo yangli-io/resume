@@ -1,3 +1,5 @@
+Last Updated - 22/09/2015
+
 # Yang Li - Resume
 This is my resume, I really like github's markdown capabilities so I decided to put my resume up here.
 
@@ -13,7 +15,9 @@ I am Full Stack but Front End focused Web and Mobile developer.  I love javascri
 ##Employment History
 | Period            |  Company      | Title     | Responsbilities |
 | :------------------:|:-------------:| :------:   | :---------------|
-| Dec 14 - Current  | Nextgen.Net   | Developer | Part of the product innovation team working on new changes to the flagship product ApplyOnline using the latest technologies.  Also working on building mobile app product. |
+| Sep 15 - Current  | General Assembly   | Part-time instructor | I am the instructor for a front end web development course |
+| Jun 15 - Current  | Bauer Media   | Developer | Enabling digital content on the web through isomorphic javascript, React/Node.  Currently I work on the platforms team, building the engine that runs Bauer's websites |
+| Dec 14 - May 15  | Nextgen.Net   | Developer | Part of the product innovation team working on new changes to the flagship product ApplyOnline using the latest technologies.  Also working on building mobile app product. |
 | Jul 13 - Dec 14   | IBM           | Developer | Developed 33 different online application forms for St. George Bank as IBM's client using BootstrapCSS and AngularJS.  Also automated a number of spreadsheets which are still being used as of today.|
 | Feb 13 - Jul 13   | UNSW          | Tutor     | Taught two classes for Computer Science at the University of New South Wales, also wrote the syllabus for one of the class and made video tutorials|
 | Jul 12 - Jan 13   | IBM           | Intern    | Worked on the financial systems, built a number of automated spreadsheets, some of the which have become ubiquitous within IBM ANZ.  Spreadsheet automation was my side project, my main role was simply analysing project financials.|
@@ -27,7 +31,7 @@ I am Full Stack but Front End focused Web and Mobile developer.  I love javascri
 | Javascript     | 9             | 2 years |
 | jQuery         | 10            |   2 years |
 | AngularJS      | 9            |   1.5 years |
-| ReactJS        | 6            |    3 months |
+| ReactJS        | 8            |    9 months |
 | IonicFramework | 7            |    8 months |
 | HTML           | 10            |    2 years |
 | Jade           | 9            |    1 years |
@@ -41,7 +45,7 @@ I am Full Stack but Front End focused Web and Mobile developer.  I love javascri
 ### Backend
 | Name        | Proficiency [1,10] | Years, Months  |
 | :------------- |:-------------:| :-----|
-| NodeJS/Express | 8             | 1 years |
+| NodeJS/Express | 9             | 2 years |
 | PHP            | 7            |   2 years |
 | Java           | 5            |   7 months |
 
@@ -56,7 +60,7 @@ I am Full Stack but Front End focused Web and Mobile developer.  I love javascri
 ### Miscellaneous
 | Name        | Proficiency [1,10] | Years, Months  |
 | :------------- |:-------------:| :-----|
-| Gulp          | 9             | 10 months |
+| Gulp          | 9             | 1.5 years |
 | Grunt            | 7            |   1 year |
 | Jira          | 7            |   7 months |
 | Confluence    | 7            |   7 months |
@@ -66,13 +70,6 @@ I am Full Stack but Front End focused Web and Mobile developer.  I love javascri
 | Heroku        | 6            |   5 months |
 | WordPress      | 6            |   3 months |
 
-
-## Projects
-| Name                | Link | Description  |
-| :-------------      |:-------------:| :-----|
-| STG, BOM, BSA Bank App | [retail](https://oao.stgeorge.com.au/LynxOAFWeb/M/test-new.jsp) [business](https://oao.stgeorge.com.au/LynxOAFWeb/M/test-business.jsp)            | 33  different online account application forms for 3 different banks for both their business and retail divisions. I worked as the Front-End tech lead using Angular and Bootstrap.|
-|Hasoo | [link](http://haasoo.com/) | Social Media type website. I Built and architected the whole website.  This website used custom CSS, AngularJS and PHP/MySQL |
-| VBA Online Tutorials | [Youtube](https://www.youtube.com/watch?v=Hr3y6BuOdnc) | Made online tutorials for my classes sponsored by Deloitte |
 
 ## Other Links
 | Name                | Link |
