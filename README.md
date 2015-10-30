@@ -1,4 +1,4 @@
-Last Updated - 22/09/2015
+Last Updated - 30/10/2015
 
 # Yang Li - Resume
 This is my resume, I really like github's markdown capabilities so I decided to put my resume up here.
@@ -29,11 +29,11 @@ I am Full Stack but Front End focused Web and Mobile developer.  I love javascri
 | Name        | Proficiency [1,10] | Years, Months  |
 | :------------- |:-------------:| :-----|
 | Javascript     | 9             | 2 years |
-| ES6/ES2015     | 6             | 2 months |
+| ES6/ES2015     | 8             | 3 months |
 | jQuery         | 10            |   2 years |
 | AngularJS      | 9            |   1.5 years |
-| ReactJS        | 8            |    9 months |
-| Flux/Fluxible        | 7            |    4 months |
+| ReactJS        | 9            |    10 months |
+| Flux/Fluxible        | 8            |    6 months |
 | IonicFramework | 7            |    8 months |
 | HTML           | 10            |    2 years |
 | Jade           | 9            |    1 years |
@@ -62,7 +62,7 @@ I am Full Stack but Front End focused Web and Mobile developer.  I love javascri
 ### Miscellaneous
 | Name        | Proficiency [1,10] | Years, Months  |
 | :------------- |:-------------:| :-----|
-| Gulp          | 9             | 1.5 years |
+| Gulp          | 9             | 2 years |
 | Grunt            | 7            |   1 year |
 | Jira          | 7            |   7 months |
 | Confluence    | 7            |   7 months |
