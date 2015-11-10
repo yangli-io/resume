@@ -1,10 +1,13 @@
-Last Updated - 30/10/2015
+Last Updated - 10/11/2015
 
 # Yang Li - Resume
 This is my resume, I really like github's markdown capabilities so I decided to put my resume up here.
 
 ## Background
-I am Full Stack but Front End focused Web and Mobile developer.  I love javascript with a passion and pretty much use it everyday whether it's for work or for my own little hobbies.  I used to be a Excel VBA developer but nowadays resort to doing my data analytics tasks with Javascript because it's just so much fun!
+Hi! I am a full stack web developer, mainly focused on Javascript. I love everything Javascript, ReactJS, NodeJS, NPM and anything else that's Javascript.  I am also skilled with PHP and Java, although those are not my main skillsets. Currently my interest lies with some backend technologies such as sockets and Go/Golang.
+
+##Latest Work
+For the last 6 months I've been working on two high traffic websites at Bauer http://www.foodtolove.com.au/ and http://www.homestolove.com.au/ Using ReactJS/Node written in ES6 and rendered on the server.
 
 ## Education
 * Postgraduate in IT (The University of Sydney) 
