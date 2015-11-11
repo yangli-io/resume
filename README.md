@@ -31,42 +31,41 @@ For the last 6 months I've been working on two high traffic websites at Bauer ht
 ### FrontEnd
 | Name        | Proficiency [1,10] | Years, Months  |
 | :------------- |:-------------:| :-----|
-| Javascript     | 9             | 2 years |
-| ES6/ES2015     | 8             | 3 months |
-| jQuery         | 10            |   2 years |
-| AngularJS      | 9            |   1.5 years |
-| ReactJS        | 9            |    10 months |
+| Javascript     | 9             | 3 years |
+| ES6/ES2015     | 8             | 1 year |
+| jQuery         | 10            |   3 years |
+| AngularJS      | 9            |   2 years |
+| ReactJS        | 9            |    1 year |
 | Flux/Fluxible        | 8            |    6 months |
-| IonicFramework | 7            |    8 months |
-| HTML           | 10            |    2 years |
+| IonicFramework | 7            |    1 year |
+| HTML           | 10            |    3 years |
 | Jade           | 9            |    1 years |
-| CSS            | 9            |    2 years |
-| MarkDown     | 9            |   1 year |
-| Cordova/PhoneGap | 8            |    8 months |
-| CoffeeScript  | 8            |    5 months |
-| Sass          | 8            |    1.5 years |
-| Less           | 7            |    5 months |
+| CSS            | 9            |    3 years |
+| MarkDown     | 9            |   2 years |
+| Cordova/PhoneGap | 8            |   1 year |
+| CoffeeScript  | 8            |    6 months |
+| Sass          | 8            |    2 years |
+| Less           | 7            |    6 months |
 
 ### Backend
 | Name        | Proficiency [1,10] | Years, Months  |
 | :------------- |:-------------:| :-----|
 | NodeJS/Express | 9             | 2 years |
 | PHP            | 7            |   2 years |
-| Java           | 5            |   7 months |
+| Java           | 5            |   6 months |
 
 ### Database
 | Name        | Proficiency [1,10] | Years, Months  |
 | :------------- |:-------------:| :-----|
 | MySQL          | 7             | 2 years |
-| MSSQL            | 5            |   5 months |
-| MongoDB         | 5            |   5 months |
-| Firebase         | 8            |   10 months |
+| MSSQL            | 5            |   6 months |
+| MongoDB         | 5            |   1 year |
 
 ### Miscellaneous
 | Name        | Proficiency [1,10] | Years, Months  |
 | :------------- |:-------------:| :-----|
 | Gulp          | 9             | 2 years |
-| Grunt            | 7            |   1 year |
+| Grunt            | 7            |   2 years |
 | Jira          | 7            |   7 months |
 | Confluence    | 7            |   7 months |
 | Bamboo        | 5            |   3 months |
