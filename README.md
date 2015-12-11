@@ -18,8 +18,8 @@ For the last 6 months I've been working on two high traffic websites at Bauer ht
 ##Employment History
 | Period            |  Company      | Title     | Responsbilities |
 | :------------------:|:-------------:| :------:   | :---------------|
-| Sep 15 - Current  | General Assembly   | Part-time instructor | I am the instructor for a front end web development course |
-| Jun 15 - Current  | Bauer Media   | Developer | Enabling digital content on the web through isomorphic javascript, React/Node.  Currently I work on the platforms team, building the engine that runs Bauer's websites |
+| Sep 15 - Dec 15  | General Assembly   | Part-time instructor | I am the instructor for a front end web development course |
+| Jun 15 - Dec 15  | Bauer Media   | Developer | Enabling digital content on the web through isomorphic javascript, React/Node.  Currently I work on the platforms team, building the engine that runs Bauer's websites |
 | Dec 14 - May 15  | Nextgen.Net   | Developer | Part of the product innovation team working on new changes to the flagship product ApplyOnline using the latest technologies.  Also working on building mobile app product. |
 | Jul 13 - Dec 14   | IBM           | Developer | Developed 33 different online application forms for St. George Bank as IBM's client using BootstrapCSS and AngularJS.  Also automated a number of spreadsheets which are still being used as of today.|
 | Feb 13 - Jul 13   | UNSW          | Tutor     | Taught two classes for Computer Science at the University of New South Wales, also wrote the syllabus for one of the class and made video tutorials|
