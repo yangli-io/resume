@@ -18,6 +18,9 @@ I have been working as a consultant Qantas through Dius, helping planes get off 
 ## Please don't contact me for
 * Roles that are not predominantly Javascript
 
+## Languages
+Fluent English and a little bit of Mandarin.
+
 ##Employment History
 | Period            |  Company      | Title     | Responsbilities |
 | :------------------:|:-------------:| :------:   | :---------------|
