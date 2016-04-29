@@ -1,4 +1,4 @@
-Last Updated - 11/12/2015
+Last Updated - 29/04/2016
 
 # Yang Li - Resume
 This is my resume, I really like github's markdown capabilities so I decided to put my resume up here.
