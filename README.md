@@ -25,7 +25,7 @@ Fluent English and a little bit of Mandarin.
 | Period            |  Company      | Title     | Responsbilities |
 | :------------------:|:-------------:| :------:   | :---------------|
 | Dec 15 - Now  | Dius Computing   | Senior Developer | Javascript Consultant |
-| Sep 15 - Dec 15  | General Assembly   | Part-time instructor | I am the instructor for a front end web development course |
+| Sep 15 - Dec 15  | General Assembly   | Part-time instructor | I was the instructor for a front end web development course |
 | Jun 15 - Dec 15  | Bauer Media   | Developer | Enabling digital content on the web through isomorphic javascript, React/Node. I worked on the platforms team, building the engine that runs Bauer's websites |
 | Dec 14 - May 15  | Nextgen.Net   | Developer | Part of the product innovation team working on new changes to the flagship product ApplyOnline using the latest technologies.  Also working on building mobile app product. |
 | Jul 13 - Dec 14   | IBM           | Developer | Developed 33 different online application forms for St. George Bank as IBM's client using BootstrapCSS and AngularJS.  Also automated a number of spreadsheets which are still being used as of today.|
