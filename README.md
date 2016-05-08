@@ -1,4 +1,4 @@
-Last Updated - 29/04/2016
+Last Updated - 8/05/2016
 
 # Yang Li - Resume
 This is my resume, I really like github's markdown capabilities so I decided to put my resume up here.
@@ -15,16 +15,10 @@ I have been working as a consultant Qantas through Dius, helping planes get off 
 * Bachelor of Commerce in Finance and Actuarial Studies (University of New South Wales)
 * Fort Street High School
 
-## Please don't contact me for
-* Roles that are not predominantly Javascript
-
-## Languages
-Fluent English and a little bit of Mandarin.
-
 ##Employment History
 | Period            |  Company      | Title     | Responsbilities |
 | :------------------:|:-------------:| :------:   | :---------------|
-| Dec 15 - Now  | Dius Computing   | Senior Developer | Javascript Consultant |
+| Dec 15 - Now  | Dius Computing   | Senior Developer | Javascript Consultant, working on React Components, Node Microservices and AWS |
 | Sep 15 - Dec 15  | General Assembly   | Part-time instructor | I was the instructor for a front end web development course |
 | Jun 15 - Dec 15  | Bauer Media   | Developer | Enabling digital content on the web through isomorphic javascript, React/Node. I worked on the platforms team, building the engine that runs Bauer's websites |
 | Dec 14 - May 15  | Nextgen.Net   | Developer | Part of the product innovation team working on new changes to the flagship product ApplyOnline using the latest technologies.  Also working on building mobile app product. |
