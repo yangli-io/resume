@@ -15,6 +15,9 @@ I have been working as a consultant Qantas through Dius, helping planes get off 
 * Bachelor of Commerce in Finance and Actuarial Studies (University of New South Wales)
 * Fort Street High School
 
+##Awards
+* Time person of the year 2006 
+
 ##Employment History
 | Period            |  Company      | Title     | Responsbilities |
 | :------------------:|:-------------:| :------:   | :---------------|
