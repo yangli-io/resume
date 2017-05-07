@@ -8,8 +8,6 @@ Hi! I am a full stack web developer, mainly focused on Javascript. I love everyt
 
 I have extensive experience in building teams around Javascript technologies and creating frameworks for companies using React.JS and Node.JS.
 
-I am **NOT** a polyglot and not fluent in multiple languages, I am however - extremely fluent in Javascript and the perfect candidate for any teams that want to build their applications using Javascript.
-
 ## Education
 * Bachelor of Commerce in Finance and Actuarial Studies (University of New South Wales)
 * Fort Street High School
