@@ -44,7 +44,6 @@ Javascript, ReactJS, AngularJS, NodeJS, ExpressJS, GraphQL, MongoDB, Docker, Ope
 | LinkedIn | [link](https://www.linkedin.com/pub/yang-li/46/119/534?trk=pub-pbmap) |
 | Stack Overflow| [link](http://stackoverflow.com/users/4062907/yang-li) |
 | Github | [link](https://github.com/yangli1990) |
-| Twitter | [link](https://twitter.com/imyangli) | 
 
 ## Contact
 * By Email - yangli1990@live.com.au
