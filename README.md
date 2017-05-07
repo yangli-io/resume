@@ -33,6 +33,11 @@ I am **NOT** a polyglot and not fluent in multiple languages, I am however - ext
 ## Technical Skills
 Javascript, ReactJS, AngularJS, NodeJS, ExpressJS, GraphQL, MongoDB, Docker, Openshift, AWS
 
+## Languages Spoken
+English - First Language
+Mandarin - Conversational
+French - Beginner
+
 ## Other Links
 | Name                | Link |
 | :-------------      |:-------------:| 
