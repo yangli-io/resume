@@ -6,7 +6,10 @@ This is my resume, I really like github's markdown capabilities so I decided to 
 ## Background
 Hi! I am a full stack web developer, mainly focused on Javascript. I love everything Javascript, ReactJS, NodeJS, NPM and anything else that's Javascript. Please do not contact me for anything less than Javascript!
 
-I have extensive experience in building teams around Javascript technologies and creating frameworks for companies using React.JS and Node.JS.
+I specialise in helping companies undergo digital transformation to better share and manage their code. I have achieved this through:
+* Making code modular and into libraries through NPM
+* Microservices Architecture
+* Team attitudes towards sharing and communications.
 
 ## Education
 * Bachelor of Commerce in Finance and Actuarial Studies (University of New South Wales)
