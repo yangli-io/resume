@@ -24,7 +24,8 @@ I specialise in helping companies undergo digital transformation to better share
 | Aug 16 - Now  | AXA Group Solutions   | Lead Developer | Lead developer building teams around Node Microservices and React Frontend |
 | Dec 15 - Aug 16  | Dius Computing   | Senior Developer | Javascript Consultant, working on React Components, Node Microservices and AWS |
 | Sep 15 - Dec 15  | General Assembly   | Part-time instructor | I was the instructor for a front end web development course |
-| Jun 15 - Dec 15  | Bauer Media   | Senior Developer | Enabling digital content on the web through isomorphic javascript, React/Node. I worked on the platforms team, building the engine that runs Bauer's websites |
+| Jun 15 - Dec 15  | Bauer Media   | Senior Developer | Enabling digital content on the web through isomorphic javascript, React/Node. I worked on the platforms team, building the engine that runs Bauer's websites.
+<ul><li>optimised pagespeed score from 40 -> 75</li><li>Built multiple NPM libraries packages</li></ul>|
 | Dec 14 - May 15  | Nextgen.Net   | Developer | Part of the product innovation team working on new changes to the flagship product ApplyOnline using the latest technologies.  Also working on building mobile app product. |
 | Jul 13 - Dec 14   | IBM           | Developer | Developed 33 different online application forms for St. George Bank as IBM's client using BootstrapCSS and AngularJS.  Also automated a number of spreadsheets which are still being used as of today.|
 | Feb 13 - Jul 13   | UNSW          | Tutor     | Taught two classes for Computer Science at the University of New South Wales, also wrote the syllabus for one of the class and made video tutorials|
