@@ -32,7 +32,7 @@ I specialise in helping companies undergo digital transformation to better share
 | Feb 09 - Nov 13   | Self-Employed | Tutor     | Taught Mathematics to High School students in both classes and private tutoring.  Sepcialised in the university entry exams.|
 
 ## Technical Skills
-Javascript, ReactJS, AngularJS, NodeJS, ExpressJS, GraphQL, MongoDB, Docker, Openshift, AWS
+Javascript, ReactJS, React-Native, AngularJS, NodeJS, ExpressJS, GraphQL, MongoDB, Docker, Openshift, AWS
 
 ## Languages Spoken
 * English - Main Language
