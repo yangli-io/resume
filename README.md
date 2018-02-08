@@ -18,7 +18,7 @@ I have helped many companies undergo digital transformation to better share and 
 ## Employment History
 | Period            |  Company      | Title     | Responsbilities |
 | :------------------:|:-------------:| :------:   | :---------------|
-| Aug 16 - Now  | AXA Group Solutions   | Lead Developer | Lead developer building teams around Node Microservices and React Frontend. <div> Some of the stuff I've worked on includes: <ul><li>React.JS</li><li>Node.js</li><li>React Native</li><li>GraphQL</li><li>MongoDB</li><li>Docker</li><li>Openshift</li><li>Microservices</li></ul></div>|
+| Aug 16 - Now  | AXA Group Solutions   | Tech Lead/Scrum Master | <div> Some of the stuff I've worked on includes: <ul><li>React.JS</li><li>Node.js</li><li>React Native</li><li>GraphQL</li><li>MongoDB</li><li>Docker</li><li>Openshift</li><li>Microservices</li></ul></div>|
 | Dec 15 - Aug 16  | Dius Computing   | Senior Developer | Javascript Consultant, working on React Components, Node Microservices and AWS |
 | Sep 15 - Dec 15  | General Assembly   | Part-time instructor | I was the instructor for a front end web development course |
 | Jun 15 - Dec 15  | Bauer Media   | Senior Developer | Enabling digital content on the web through isomorphic javascript, React/Node. I worked on the platforms team, building the engine that runs Bauer's websites. <ul><li>optimised pagespeed score from 40 -> 75</li><li>Built multiple NPM libraries packages</li></ul>|
