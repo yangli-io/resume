@@ -15,9 +15,6 @@ I have helped many companies undergo digital transformation to better share and 
 * Bachelor of Commerce in Finance and Actuarial Studies (University of New South Wales)
 * Fort Street High School
 
-## Awards
-* Time person of the year 2006 
-
 ## Employment History
 | Period            |  Company      | Title     | Responsbilities |
 | :------------------:|:-------------:| :------:   | :---------------|
