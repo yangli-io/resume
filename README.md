@@ -1,15 +1,47 @@
-Last Updated - 08-Feburary-2018
+Last Updated - 20-Feburary-2018
 
 # Yang Li - Resume
 This is my resume, I really like github's markdown capabilities so I decided to put my resume up here.
 
-## Background
-Hi! I am a full stack web developer, mainly focused on Javascript. I love everything Javascript, ReactJS, NodeJS, NPM and anything else that's Javascript. Please do not contact me for anything less than Javascript!
+## Introduction
+I am a big fan of Javascript and have dedicated my career to the mastery of it. Functional programming is my favourite way to program. I have worked heavily on Angular, React and Node.js projects and nowadays I dedicate most of my time in React.js, Node.js and React Native. I do enjoy a bit of other languages from time to time but my main Focus is Javascript. So if you're looking to hire me, it should be because you have a strong Javascript focus or you want to upgrade your Javascript skill pool.
 
-I have helped many companies undergo digital transformation to better share and manage their code. I have achieved this through:
-* Making code modular and into libraries through NPM
-* Microservices Architecture
-* Team attitudes towards sharing and communications.
+Most people tend to associate Javascript developers with frontend work only but that's all changing. In my case, I have a diverse full stack experience ranging
+
+* Creating customized frameworks to cater for different requirements
+* Leading a microservices architecture using Node.js (About 50 different microservices in a year)
+* Reusability Focused; sharing code with NPM, creating npm templates, microservice templates and etc.
+* Migration to Javascript, Frontend and Server-side
+* Extensive DevOps capabilities, AWS, Openshift, Docker.
+* Setup Continuous Integration (Lint, Unit tests, security checks, E2E Tests) and Continuous Deployment
+
+When it comes to industries, I don't have a strong preference as you can see from my experience. I am much more intrigued at the technologies involved. I am interested in companies that are looking to invest heavily on the Javascript Stack and recently also interested in Machine Learning projects.
+
+## Technologies
+* Javascript
+* React.js
+* React Native
+* Node.js
+* Vue.js
+* Angular
+* GraphQL
+* Python
+* Mocha, Chai, Pact, Selenium
+* Cordova/PhoneGap
+* Machine Learning (Octave)
+* MongoDB
+* MSSQL
+* AWS
+* Openshift
+* Docker
+* Kibana, Splunk
+* Jenkins, Teamcity, CI
+* Git (Please not SVN!)
+
+## Practices
+* Scrum Methodologies
+* Continuous Integration, Continuous Delivery
+* TDD, BDD 
 
 ## Education
 * Bachelor of Commerce in Finance and Actuarial Studies (University of New South Wales)
@@ -28,11 +60,8 @@ I have helped many companies undergo digital transformation to better share and 
 | Jul 12 - Jan 13   | IBM           | Developer    | Built various useful internal tools and websites! |
 | Feb 09 - Nov 13   | Self-Employed | Tutor     | Taught Mathematics to High School students in both classes and private tutoring.  Sepcialised in the university entry exams.|
 
-## Technical Skills
-Javascript, ReactJS, React-Native, AngularJS, NodeJS, ExpressJS, GraphQL, MongoDB, Docker, Openshift, AWS
-
 ## Languages Spoken
-* English - Main Language
+* English - (Native, main language)
 * Mandarin - Conversational
 * French - Beginner
 
