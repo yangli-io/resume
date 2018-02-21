@@ -55,6 +55,7 @@ I am currently a team lead working on various projects and technologies at AXA. 
 
 * dramatically improving code reuse by implementing a modular system, such as microservices and NPM libraries
 * changed from a monolithic application to some 50+ different microservices and 30+ different NPM library packages.
+* Wrote a majority of the baseline frameworks/libraries used by most of our projects
 * moved 90% of our applications to the cloud
 * implemented code reviews processes, unit testing frameworks (we're at 90%+), E2E testing frameworks, developer sharing sessions
 * Coaching, inpsiring and empowering our inhouse Javascript community
