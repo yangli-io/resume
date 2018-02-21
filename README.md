@@ -47,10 +47,24 @@ When it comes to industries, I don't have a strong preference as you can see fro
 * Bachelor of Commerce in Finance and Actuarial Studies (University of New South Wales)
 * Fort Street High School
 
-## Employment History
+## Current Employment
+Team Lead at AXA Group Solutions (Asia Region)
+Aug 2016 - Now
+
+I am currently a team lead working on various projects and technologies at AXA. My role focuses on DevOps(Openshift, Jenkins), Frontend(React.js, React Native), Microservices(Node.js, Express.js) and Agile coaching(Scrum Methodologies). 
+
+* dramatically improving code reuse by implementing a modular system, such as microservices and NPM libraries
+* changed from a monolithic application to some 50+ different microservices and 30+ different NPM library packages.
+* moved 90% of our applications to the cloud
+* implemented code reviews processes, unit testing frameworks (we're at 90%+), E2E testing frameworks, developer sharing sessions
+* Coaching, inpsiring and empowering our inhouse Javascript community
+* Implementing new technologies such as GraphQL and React Native
+* Moving away from "Corporate Agile" into "Fun Agile" (Ask me more. I can talk for hours on this!)
+* Building strong cross functional feature teams
+
+## Past Employment History
 | Period            |  Company      | Title     | Responsbilities |
 | :------------------:|:-------------:| :------:   | :---------------|
-| Aug 16 - Now  | AXA Group Solutions   | Tech Lead/Scrum Master | <div> Some of the stuff I've worked on includes: <ul><li>React.JS</li><li>Node.js</li><li>React Native</li><li>GraphQL</li><li>MongoDB</li><li>Docker</li><li>Openshift</li><li>Microservices</li></ul></div>|
 | Dec 15 - Aug 16  | Dius Computing   | Senior Developer | Javascript Consultant, working on React Components, Node Microservices and AWS |
 | Sep 15 - Dec 15  | General Assembly   | Part-time instructor | I was the instructor for a front end web development course |
 | Jun 15 - Dec 15  | Bauer Media   | Senior Developer | Enabling digital content on the web through isomorphic javascript, React/Node. I worked on the platforms team, building the engine that runs Bauer's websites. <ul><li>optimised pagespeed score from 40 -> 75</li><li>Built multiple NPM libraries packages</li></ul>|
