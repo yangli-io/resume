@@ -45,7 +45,6 @@ When it comes to industries, I don't have a strong preference as you can see fro
 
 ## Education
 * Bachelor of Commerce in Finance and Actuarial Studies (University of New South Wales)
-* Fort Street High School
 
 ## Current Employment
 Team Lead at AXA Group Solutions (Asia Region)
