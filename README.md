@@ -48,6 +48,9 @@ When it comes to industries, I don't have a strong preference as you can see fro
 
 ## Current Employment
 Team Lead at AXA Group Solutions (Asia Region)
+
+Hong Kong
+
 Aug 2016 - Now
 
 I am currently a team lead working on various projects and technologies at AXA. My role focuses on DevOps(Openshift, Jenkins), Frontend(React.js, React Native), Microservices(Node.js, Express.js) and Agile coaching(Scrum Methodologies). 
