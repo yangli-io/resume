@@ -4,7 +4,7 @@ Last Updated - 20-Feburary-2018
 This is my resume, I really like github's markdown capabilities so I decided to put my resume up here.
 
 ## Introduction
-I am a big fan of Javascript and have dedicated my career to the mastery of it. Functional programming is my favourite way to program. I have worked heavily on Angular, React and Node.js projects and nowadays I dedicate most of my time in React.js, Node.js and React Native. I do enjoy a bit of other languages from time to time but my main Focus is Javascript. So if you're looking to hire me, it should be because you have a strong Javascript focus or you want to upgrade your Javascript skill pool.
+Functional programming is my favourite way to program. I have worked heavily on Angular, React and Node.js projects and nowadays I dedicate most of my time in React.js, Node.js and React Native. I do enjoy a bit of other languages from time to time but my main Focus is Javascript. So if you're looking to hire me, it should be because you have a strong Javascript focus or you want to upgrade your Javascript skill pool.
 
 Most people tend to associate Javascript developers with frontend work only but that's all changing. In my case, I have a diverse full stack experience ranging
 
