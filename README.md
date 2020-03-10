@@ -42,7 +42,7 @@ Hong Kong
 
 July 2018 - Now
 
-I am currently a tech lead at Standarded Chartered, looking after the UI and DevOps of the FX App. 
+I am currently a tech lead at Standarded Chartered, looking after the UI and DevOps of the real time FX Trading App. 
 
 * Looking after three major products for the FX initiative, across 8 different regions.
 * Leading and developing a team of UI developers
