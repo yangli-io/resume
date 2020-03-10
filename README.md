@@ -1,21 +1,10 @@
-Last Updated - 20-Feburary-2018
+Last Updated - 10-March-2020
 
 # Yang Li - Resume
 This is my resume, I really like github's markdown capabilities so I decided to put my resume up here.
 
 ## Introduction
-Functional programming is my favourite way to program. I have worked heavily on Angular, React and Node.js projects and nowadays I dedicate most of my time in React.js, Node.js and React Native. I do enjoy a bit of other languages from time to time but my main Focus is Javascript. So if you're looking to hire me, it should be because you have a strong Javascript focus or you want to upgrade your Javascript skill pool.
-
-Most people tend to associate Javascript developers with frontend work only but that's all changing. In my case, I have a diverse full stack experience ranging
-
-* Creating customized frameworks to cater for different requirements
-* Leading a microservices architecture using Node.js (About 50 different microservices in a year)
-* Reusability Focused; sharing code with NPM, creating npm templates, microservice templates and etc.
-* Migration to Javascript, Frontend and Server-side
-* Extensive DevOps capabilities, AWS, Openshift, Docker.
-* Setup Continuous Integration (Lint, Unit tests, security checks, E2E Tests) and Continuous Deployment
-
-When it comes to industries, I don't have a strong preference as you can see from my experience. I am much more intrigued at the technologies involved. I am interested in companies that are looking to invest heavily on the Javascript Stack and recently also interested in Machine Learning projects.
+I am a tech lead with a diverse range of experience. I have specialised myself with the Javascript language both UI and backend. I have strong understanding and experience of a wide range of technology, from UI to Backend and Database. Aside from technology, I am a natural leader who is extremely outspoken. I became a natural leader early in my career when I saw that no one was willing to push for better. For the last four years, I have been developing leadership skills from pushing for the right thing and empowering people around me. I believe leadership is about empowering the people around me to be more productive and in technology that usually means doing something interesting and pushing for latest technology.
 
 ## Technologies
 * Javascript
@@ -47,27 +36,28 @@ When it comes to industries, I don't have a strong preference as you can see fro
 * Bachelor of Commerce in Finance and Actuarial Studies (University of New South Wales)
 
 ## Current Employment
-Team Lead at AXA Group Solutions (Asia Region)
+Standard Chartered Bank
 
 Hong Kong
 
-Aug 2016 - Now
+July 2018 - Now
 
-I am currently a team lead working on various projects and technologies at AXA. My role focuses on DevOps(Openshift, Jenkins), Frontend(React.js, React Native), Microservices(Node.js, Express.js) and Agile coaching(Scrum Methodologies). 
+I am currently a tech lead at Standarded Chartered, looking after the UI and DevOps of the FX App. 
 
-* dramatically improving code reuse by implementing a modular system, such as microservices and NPM libraries
-* changed from a monolithic application to some 50+ different microservices and 30+ different NPM library packages.
-* Wrote a majority of the baseline frameworks/libraries used by most of our projects
-* moved 90% of our applications to the cloud
-* implemented code reviews processes, unit testing frameworks (we're at 90%+), E2E testing frameworks, developer sharing sessions
-* Coaching, inpsiring and empowering our inhouse Javascript community
-* Implementing new technologies such as GraphQL and React Native
-* Moving away from "Corporate Agile" into "Fun Agile" (Ask me more. I can talk for hours on this!)
-* Building strong cross functional feature teams
+* Looking after three major products for the FX initiative, across 8 different regions.
+* Leading and developing a team of UI developers
+* Introducing and replacing existing web stack with React.JS
+* Building shared component libraries which are being used by other teams
+* Supporting and looking after a major application, hosted in five countries with millions of users and transactions
+* Looking after the DevOps pipeline and enhancing our deployment capabilities
+* Pushing for high level code quality and high level of unit test coverage (90%+)
+* Design and Architecture, understanding the pitfalls of maintaining three multi country application
+* Stakeholder management including both business and tech side
 
 ## Past Employment History
 | Period            |  Company      | Title     | Responsbilities |
 | :------------------:|:-------------:| :------:   | :---------------|
+| Aug 16 - Jun 18 | Axa Insurance | Team Lead | Managing a scrum a team, taking on both a role of a scrum master and a tech lead. I introduced many Agile ways of doing things in AXA and helped bring the wider team together working. As the tech lead, I introduced many new practices and progressive technologies to the company. We adopted GraphQL, NPM Packages, extensive NodeJS and ReactJS use and Docker + Openshift. My greatest achievement at AXA was building the development community and helping developers being more productive. |
 | Dec 15 - Aug 16  | Dius Computing   | Senior Developer | Javascript Consultant, working on React Components, Node Microservices and AWS |
 | Sep 15 - Dec 15  | General Assembly   | Part-time instructor | I was the instructor for a front end web development course |
 | Jun 15 - Dec 15  | Bauer Media   | Senior Developer | Enabling digital content on the web through isomorphic javascript, React/Node. I worked on the platforms team, building the engine that runs Bauer's websites. <ul><li>optimised pagespeed score from 40 -> 75</li><li>Built multiple NPM libraries packages</li></ul>|
