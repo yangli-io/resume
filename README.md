@@ -1,10 +1,9 @@
 Last Updated - 10-March-2020
 
 # Yang Li - Resume
-This is my resume, I really like github's markdown capabilities so I decided to put my resume up here.
 
 ## Introduction
-I am a tech lead with a diverse range of experience. I have specialised myself with the Javascript language both UI and backend. I have strong understanding and experience of a wide range of technology, from UI to Backend and Database. Aside from technology, I am a natural leader who is extremely outspoken. I became a natural leader early in my career when I saw that no one was willing to push for better. For the last four years, I have been developing leadership skills from pushing for the right thing and empowering people around me. I believe leadership is about empowering the people around me to be more productive and in technology that usually means doing something interesting and pushing for latest technology.
+I am a tech lead with a diverse range of experience. I have specialised myself with the Javascript language both UI and backend. I have strong understanding and experience of a wide range of technology, from UI to Backend and Database. Aside from technology, I am a natural leader who is extremely outspoken. For a technology leader I am also deeply involved in the business, I have a wide range of different industry knowledge. I am a strong believer that the best products can only be created when the development team creating it are working closely with business and marketing teams. 
 
 ## Technologies
 * Javascript
@@ -31,6 +30,8 @@ I am a tech lead with a diverse range of experience. I have specialised myself w
 * Scrum Methodologies
 * Continuous Integration, Continuous Delivery
 * TDD, BDD 
+* UI/UX methodologies
+* DevSecOps
 
 ## Education
 * Bachelor of Commerce in Finance and Actuarial Studies (University of New South Wales)
@@ -42,7 +43,7 @@ Hong Kong
 
 July 2018 - Now
 
-I am currently a tech lead at Standarded Chartered, looking after the UI and DevOps of the real time FX Trading App. 
+I am currently a tech lead at Standarded Chartered, looking after the UI and DevOps of the real time FX Trading App. This is one of the Flagship products at Standard Chartered.
 
 * Looking after three major products for the FX initiative, across 8 different regions.
 * Leading and developing a team of UI developers
