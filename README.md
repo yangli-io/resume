@@ -5,6 +5,8 @@ Last Updated - 19-Jun-2020
 ## Introduction
 I am a technology lead with a diverse range of experience. I have experience in both UI and backend development and I am a pusher for Agile and DevOps practices. I have strong understanding and experience of a wide range of technology, from UI to Backend and Database. Aside from technology, I am a natural leader who is extremely outspoken. For a technology leader I am also deeply involved in the business, I have a wide range of different industry knowledge. I am a strong believer that the best products can only be created when the development team creating it are working closely with business and marketing teams. I am someone with a lot of ideas and also will push hard for changes. 
 
+English is my native language. I can also speak Mandarin casually.
+
 ## Practices
 * Scrum Methodologies
 * Continuous Integration, Continuous Delivery
